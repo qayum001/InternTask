@@ -9,6 +9,11 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InternTask.Lib", "InternTas
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InternTask.Test", "InternTask.Test\InternTask.Test.csproj", "{8FE8CE38-624E-449E-AC8A-981233CF332E}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{C5D4981E-45BD-401D-8888-A6CA09A3272A}"
+	ProjectSection(SolutionItems) = preProject
+		kuber.yaml = kuber.yaml
+	EndProjectSection
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
